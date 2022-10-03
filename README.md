@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**solkibet/solkibet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kibet_codes/kibet_codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
